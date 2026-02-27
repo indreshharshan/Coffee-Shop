@@ -1,5 +1,4 @@
-# 12 Weeks 12 Projects Challenge
-# Week-1
+# 12 Weeks 12 Projects Challenge (Week 1)
 
 <img width="1355" height="608" alt="image" src="https://github.com/user-attachments/assets/87f33c12-faed-4a83-8f1d-01a349386093" />
 
